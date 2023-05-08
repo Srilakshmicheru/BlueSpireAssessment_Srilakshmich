@@ -1,0 +1,10 @@
+# This program adds two numbers
+
+num1 = 3
+num2 = 2
+
+# Add two numbers
+sum = num1 + num2
+
+# Display the sum
+print('The sum of 2 no's:'.format(num1, num2, sum))
